@@ -7,5 +7,5 @@ The solution we proposed is based on a smartphone solution (Android). The comput
 
 <b>Awards</b>
 
-Leaf meter was selected by the judging panel to represent Cyprus in the global Space Apps competition 2014!
+Leaf meter was selected by the judging panel to represent Cyprus in the global Space Apps competition 2014
 <img src="https://github.com/georgioupanayiotis/leafmeter/blob/master/leafscreen.png" style="margin:0 auto;"/>
